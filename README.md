@@ -1,1 +1,2 @@
-# shmilyLucky.github.io
+# My Blog
+# shmily-amy.github.io
